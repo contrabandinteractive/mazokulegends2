@@ -1,0 +1,17 @@
+name = 'My Game'
+
+modules = [
+    './main',
+    './chat',
+    '@rpgjs/mobile-gui',
+    '@rpgjs/default-gui',
+    '@rpgjs/gamepad'
+]
+
+[start]
+    map = 'simplemap'
+    graphic = 'hero'
+    hitbox = [16, 16]
+
+[compilerOptions.build]
+    serverUrl = 'https://mazokulegendsserver.vercel.app/'
