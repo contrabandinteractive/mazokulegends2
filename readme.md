@@ -2,15 +2,15 @@
 
 ## About
 
-Mazoku Legends is a MMORPG based on Japanese mythology! It is currently a proof of concept built on the Sepolia Testnet, and the Web3.js library.
+Mazoku Legends is a MMORPG based on Japanese mythology! It is currently a proof of concept.
 
 It demonstrates the following:
 
 * Multiplayer capability
-* Chat functionality that lets you send XRP
-* Smart contract: The Blacksmith holds the key to the Sword NFT (ERC721) Smart Contract. 
+* Chat functionality that lets you send currency
+* Smart contract: The Blacksmith holds the key to the Sword NFT.
 * Mint NFT: speak to the Blacksmith to forge your own Sword NFT! Act quick because the initial supply is 500 (now at 499!)
-* Fight the Dark Lord! If you win, you get ETH. If you lose, you send the Dark Lord some ETH.
+* Fight the Dark Lord! If you win, you get currency. If you lose, you send the Dark Lord some currency.
 * The Dark Lord can only be defeated with a sword (this dApp checks if you are an owner).
 
 
